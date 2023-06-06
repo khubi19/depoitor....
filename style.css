@@ -1,0 +1,31 @@
+.main{
+    position: relative;
+    left: -1rem;
+    text-align: center;
+}
+span{
+    position: relative;
+    position: relative;
+    left: 25rem;
+    margin-left: 4rem;
+}
+.sn{
+    position: relative;
+    left: 0rem;
+}
+#rem{
+    left: -4rem;
+}
+.list{
+    display: flex;
+    position: relative;
+    margin-left: 47rem;
+    justify-content: space-around;
+    left: -23rem;
+}
+*{
+    font-family: 'Nunito', sans-serif;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
